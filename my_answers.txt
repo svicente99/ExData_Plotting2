@@ -1,0 +1,29 @@
+1. As we can see by this plot, total emissions from PM2.5 decreased
+drastically since 1999 to 2008. It falled down more than 3 millions of tons.
+
+2. By this graph, we cannot say the same in relation to Baltimore City,
+when compared to whole nation. It's decreasing but less than situation asked
+before. And, in 2005, it had a second peak, close to 1st year (1999).
+
+3. Of the four types of sources (point, nonpoint, onroad, nonroad) this
+graph demonstrates that three of them have decreased along these years:
+On-Road, Non-Road and Non-Point. Only "Point" type is keeping same level
+(with one peak in 2005). Among these 4 types the highlest level belongs
+to "Non-Point" type.
+
+4. Across the United States emissions from coal combustion-related sources
+has changed a little in first 3 years of this analysis (1999, 2002, 2005)
+and only in last year (2008) we can see a notable decreasing.
+
+5. Emission from motor vehicle sources have been decreased since 1999 in
+Baltimore City. But the greatest fall occurred from 1999 to 2002 (more
+than 50%). After that the level is falling little by little.
+
+6. Comparing emissions from motor vehicle sources in Baltimore City with
+same source emissions in Los Angeles County, this plot showed us very
+different levels of total pollutant (PM2.5) emissions. While L.A. has
+measurements above 4.000 tons, Baltimore City doesn't have any year
+above 500 tons.
+Conclusion: Los Angeles is greater than Baltimore in motor vehicle emissions.
+
+
